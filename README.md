@@ -32,8 +32,7 @@ Running log of tools, pipelines, and methods used across lab projects. Each file
 
 ## [`rna-seq/`](./rna-seq) — RNA-seq & Expression Analysis
 - [`normalization.ipynb`](./rna-seq/normalization.ipynb) — RPM, RPKM, TPM, FPKM, size factors
-- [`alignment.ipynb`](./rna-seq/alignment.ipynb) — Kallisto pseudoalignment vs quasi-mapping
-- [`differential-expression.ipynb`](./rna-seq/differential-expression.ipynb) — DESeq2, edgeR, limma-voom
+- [`differential-expression.ipynb`](./rna-seq/differential-expression.ipynb) — DESeq2, edgeR, limma-voom, Kallisto, Salmon
 
 ## [`r/`](./r) — R Methods
 - [`deseq2.Rmd`](./r/deseq2.Rmd) — DESeq2 differential expression
