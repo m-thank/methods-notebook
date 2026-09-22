@@ -24,10 +24,11 @@ Running log of tools, pipelines, and methods used across lab projects. Each file
 ## [`cs-fundamentals/`](./cs-fundamentals) — CS Fundamentals
 - [`search-algorithms.ipynb`](./cs-fundamentals/search-algorithms.ipynb) — BFS, DFS, Dijkstra, A*, Greedy, IDS
 - [`pca.ipynb`](./cs-fundamentals/pca.ipynb) — math & projection
+- [`sva.ipynb`](./cs-fundamentals/sva.ipynb) — math & projection
 
 ## [`statistics/`](./statistics) — Statistical Methods
 - [`hypothesis-testing.ipynb`](./statistics/hypothesis-testing.ipynb) — T-test, Fisher exact, p-value, q-value
-- [`distributions.ipynb`](./statistics/distributions.ipynb) — Poisson, Negative Binomial, Gamma-Poisson
+- [`distributions.ipynb`][22] — Poisson, Negative Binomial, Gamma-Poisson
 - [`multiple-testing.ipynb`](./statistics/multiple-testing.ipynb) — FWER, FDR, Benjamini-Hochberg
 
 ## [`rna-seq/`](./rna-seq) — RNA-seq & Expression Analysis
@@ -47,3 +48,4 @@ _Placeholder — to be filled in as new tools are added._
 
 ---
 *Last updated: 2026-09-19*
+[22]: ./statistics/distributions.ipynb
