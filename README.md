@@ -23,8 +23,6 @@ Running log of tools, pipelines, and methods used across lab projects. Each file
 
 ## [`cs-fundamentals/`](./cs-fundamentals) — CS Fundamentals
 - [`search-algorithms.ipynb`](./cs-fundamentals/search-algorithms.ipynb) — BFS, DFS, Dijkstra, A*, Greedy, IDS
-- [`pca.ipynb`](./cs-fundamentals/pca.ipynb) — math & projection
-- [`sva.ipynb`](./cs-fundamentals/sva.ipynb) — math & projection
 
 ## [`statistics/`](./statistics) — Statistical Methods
 - [`hypothesis-testing.ipynb`](./statistics/hypothesis-testing.ipynb) — T-test, Fisher exact, p-value, q-value
@@ -34,6 +32,8 @@ Running log of tools, pipelines, and methods used across lab projects. Each file
 ## [`rna-seq/`](./rna-seq) — RNA-seq & Expression Analysis
 - [`normalization.ipynb`](./rna-seq/normalization.ipynb) — RPM, RPKM, TPM, FPKM, size factors
 - [`differential-expression.ipynb`](./rna-seq/differential-expression.ipynb) — DESeq2, edgeR, limma-voom, Kallisto, Salmon
+- [`pca.ipynb`](./cs-fundamentals/pca.ipynb) — math & projection
+- [`sva.ipynb`](./cs-fundamentals/sva) — math & projection
 
 ## [`r/`](./r) — R Methods
 - [`deseq2.Rmd`](./r/deseq2.Rmd) — DESeq2 differential expression
